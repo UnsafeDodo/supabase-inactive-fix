@@ -1,8 +1,8 @@
 [
   {
-    "name": "server license",
-    "supabase_url": "https://mxhxggkunszgzqcbhjqdmxhxggkunszgzqcbhjqd.supabase.co",
+    "name": "server_license",
+    "supabase_url": "https://mxhxggkunszgzqcbhjqd.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
-    "table_name": "licenses"
+    "table_name": "keep_alive"
   }
 ]
